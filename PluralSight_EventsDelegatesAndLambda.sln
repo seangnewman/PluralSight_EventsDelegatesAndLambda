@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap3_DelegatesAndEvents", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap4_LambdasAndDelegates", "Chap4_LambdasAndDelegates\Chap4_LambdasAndDelegates.csproj", "{1BA052C7-8051-4423-B1E3-C192C904D457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap5_EventsAndDelegates_InAction", "Chap5_EventsAndDelegates_InAction\Chap5_EventsAndDelegates_InAction.csproj", "{736ED9F7-3881-4B63-8634-3AFBE112B514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap5_CommunicatingBetweenObjects", "Chap5_CommunicatingBetweenObjects\Chap5_CommunicatingBetweenObjects.csproj", "{457392D0-655D-4B39-9FA9-76849DA8B31B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{1BA052C7-8051-4423-B1E3-C192C904D457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA052C7-8051-4423-B1E3-C192C904D457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA052C7-8051-4423-B1E3-C192C904D457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736ED9F7-3881-4B63-8634-3AFBE112B514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736ED9F7-3881-4B63-8634-3AFBE112B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736ED9F7-3881-4B63-8634-3AFBE112B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736ED9F7-3881-4B63-8634-3AFBE112B514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457392D0-655D-4B39-9FA9-76849DA8B31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457392D0-655D-4B39-9FA9-76849DA8B31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457392D0-655D-4B39-9FA9-76849DA8B31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457392D0-655D-4B39-9FA9-76849DA8B31B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
